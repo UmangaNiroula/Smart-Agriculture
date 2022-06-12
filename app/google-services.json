@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937328725664",
+    "firebase_url": "https://dataagriculture-5df7f-default-rtdb.firebaseio.com",
+    "project_id": "dataagriculture-5df7f",
+    "storage_bucket": "dataagriculture-5df7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937328725664:android:45c4fc60316d29ac5d03c5",
+        "android_client_info": {
+          "package_name": "com.example.smartagriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937328725664-hv31gecn6ris65349095clrlq12akril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmovOZWoqW6nwZub9XydXPrtR-3veSp98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937328725664-hv31gecn6ris65349095clrlq12akril.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
