@@ -156,6 +156,8 @@ public class Dashboard extends AppCompatActivity {
             Intent intent = new Intent(Dashboard.this, LiveData.class);
             startActivity(intent);
 
+
+
         });
 
         startAnalysis.setOnClickListener(view ->
