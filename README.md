@@ -1,5 +1,5 @@
 # Smart-Agriculture
-This is an android-based IoT application where three parameters; temperature, realtive humidity, and moisyure were used to study the data and provide analysis based on them.e 
+This project demonstrates the integration of IoT devices with agriculture to create a smart farming system. It utilizes sensors like DHT11 for temperature and humidity and a soil moisture sensor, all connected through Node MCU with an ESP8266 chip. Data collected from the sensors is transmitted to a Firebase real-time database, where it is analyzed and used to optimize farming processes. The project also includes an Android application for real-time monitoring, providing an efficient and automated approach to modern agriculture, reducing waste, and increasing productivity.
 
 # App Screen Shots
 
