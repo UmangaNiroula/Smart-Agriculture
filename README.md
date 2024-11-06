@@ -3,45 +3,39 @@ This project demonstrates the integration of IoT devices with agriculture to cre
 
 # Smart-Agriculture
 
-<img width="352" alt="Screen Shot 2022-06-12 at 6 41 03 PM" src="https://user-images.githubusercontent.com/53705624/173234299-bd19b7c4-a9b1-425b-9e34-67b762c50572.png">
-
 ### Dashboard Page
-
-
-<img width="343" alt="Screen Shot 2022-06-12 at 6 42 04 PM" src="https://user-images.githubusercontent.com/53705624/173234347-7aa7872d-80fc-46f7-b4b4-823c41c8def1.png">
+<img width="352" alt="Screen Shot 2022-06-12 at 6 41 03 PM" src="https://user-images.githubusercontent.com/53705624/173234299-bd19b7c4-a9b1-425b-9e34-67b762c50572.png">
 
 ### Add Crop Page
 
-<img width="343" alt="Screen Shot 2022-06-12 at 6 42 52 PM" src="https://user-images.githubusercontent.com/53705624/173234389-c1f730c7-4218-442c-a2b4-a732b6739ae6.png">
+<img width="343" alt="Screen Shot 2022-06-12 at 6 42 04 PM" src="https://user-images.githubusercontent.com/53705624/173234347-7aa7872d-80fc-46f7-b4b4-823c41c8def1.png">
 
 ### Live Data
 
-
-<img width="343" alt="Screen Shot 2022-06-12 at 6 43 19 PM" src="https://user-images.githubusercontent.com/53705624/173234400-5f27cfaa-9c22-4f1e-859c-4d9808bb88f1.png">
+<img width="343" alt="Screen Shot 2022-06-12 at 6 42 52 PM" src="https://user-images.githubusercontent.com/53705624/173234389-c1f730c7-4218-442c-a2b4-a732b6739ae6.png">
 
 ### Moisture Log
 
-
-<img width="343" alt="Screen Shot 2022-06-12 at 6 43 51 PM" src="https://user-images.githubusercontent.com/53705624/173234415-9ce7672f-6a02-4055-aca8-2fe96cb5eba6.png">
+<img width="343" alt="Screen Shot 2022-06-12 at 6 43 19 PM" src="https://user-images.githubusercontent.com/53705624/173234400-5f27cfaa-9c22-4f1e-859c-4d9808bb88f1.png">
 
 ### Humidity Log
 
-
-<img width="343" alt="Screen Shot 2022-06-12 at 6 44 13 PM" src="https://user-images.githubusercontent.com/53705624/173234435-dd544bea-2e06-413e-b517-a8ade6878b1f.png">
+<img width="343" alt="Screen Shot 2022-06-12 at 6 43 51 PM" src="https://user-images.githubusercontent.com/53705624/173234415-9ce7672f-6a02-4055-aca8-2fe96cb5eba6.png">
 
 ### Temperature Log
 
-
-<img width="343" alt="Screen Shot 2022-06-12 at 6 44 33 PM" src="https://user-images.githubusercontent.com/53705624/173234454-99d0df72-91c3-422b-b202-a58d3f7c1a79.png">
+<img width="343" alt="Screen Shot 2022-06-12 at 6 44 13 PM" src="https://user-images.githubusercontent.com/53705624/173234435-dd544bea-2e06-413e-b517-a8ade6878b1f.png">
 
 ### Cost Estimation
 
-<img width="343" alt="Screen Shot 2022-06-12 at 6 45 42 PM" src="https://user-images.githubusercontent.com/53705624/173234506-e9f08810-5629-47d2-adf8-3eb1a47e0823.png">
+<img width="343" alt="Screen Shot 2022-06-12 at 6 44 33 PM" src="https://user-images.githubusercontent.com/53705624/173234454-99d0df72-91c3-422b-b202-a58d3f7c1a79.png">
 
 ### Performace Tracker
 
+<img width="343" alt="Screen Shot 2022-06-12 at 6 45 42 PM" src="https://user-images.githubusercontent.com/53705624/173234506-e9f08810-5629-47d2-adf8-3eb1a47e0823.png">
 
-# User Guidelines
+
+## User Guidelines
 
 1.	User Guidelines
 
