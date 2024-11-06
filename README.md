@@ -1,7 +1,7 @@
-# Smart-Agriculture
+# Elevator Pitch
 This project demonstrates the integration of IoT devices with agriculture to create a smart farming system. It utilizes sensors like DHT11 for temperature and humidity and a soil moisture sensor, all connected through Node MCU with an ESP8266 chip. Data collected from the sensors is transmitted to a Firebase real-time database, where it is analyzed and used to optimize farming processes. The project also includes an Android application for real-time monitoring, providing an efficient and automated approach to modern agriculture, reducing waste, and increasing productivity.
 
-# App Screen Shots
+# Smart-Agriculture
 
 <img width="352" alt="Screen Shot 2022-06-12 at 6 41 03 PM" src="https://user-images.githubusercontent.com/53705624/173234299-bd19b7c4-a9b1-425b-9e34-67b762c50572.png">
 
